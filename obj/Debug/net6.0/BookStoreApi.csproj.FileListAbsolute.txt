@@ -1,0 +1,7 @@
+/home/krohn/Desktop/Projects_4GI/VACCANCES/DOTNET/BookStoreApi/obj/Debug/net6.0/BookStoreApi.csproj.AssemblyReference.cache
+/home/krohn/Desktop/Projects_4GI/VACCANCES/DOTNET/BookStoreApi/obj/Debug/net6.0/BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/krohn/Desktop/Projects_4GI/VACCANCES/DOTNET/BookStoreApi/obj/Debug/net6.0/BookStoreApi.AssemblyInfoInputs.cache
+/home/krohn/Desktop/Projects_4GI/VACCANCES/DOTNET/BookStoreApi/obj/Debug/net6.0/BookStoreApi.AssemblyInfo.cs
+/home/krohn/Desktop/Projects_4GI/VACCANCES/DOTNET/BookStoreApi/obj/Debug/net6.0/BookStoreApi.csproj.CoreCompileInputs.cache
+/home/krohn/Desktop/Projects_4GI/VACCANCES/DOTNET/BookStoreApi/obj/Debug/net6.0/BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+/home/krohn/Desktop/Projects_4GI/VACCANCES/DOTNET/BookStoreApi/obj/Debug/net6.0/BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
